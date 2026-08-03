@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/header.svg" alt="al-DataEngineer Banner" width="100%" />
+</p>
+
 # Hi, saya al-DataEngineer 👋
 
 ### Mahasiswa Sains Data • Semester 3 • Masih belajar (dan bangga dengan itu) 🚀
@@ -44,9 +48,9 @@ Halo! Saya mahasiswa **Sains Data** semester 3 yang sedang menapaki jalur **data
 
 ## GitHub Stats 📈
 
-![al-DataEngineer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=al-DataEngineer&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=al-DataEngineer&layout=compact&theme=radical&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=al-DataEngineer&theme=radical&hide_border=true)
+![al-DataEngineer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=al-DataEngineer&show_icons=true&theme=tokyonight&border_color=00C2FF&border_radius=16)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=al-DataEngineer&layout=compact&theme=tokyonight&border_color=00C2FF&border_radius=16)
+![GitHub Streak](https://streak-stats.demolab.com/?user=al-DataEngineer&theme=tokyonight&border=00C2FF&border_radius=8)
 
 ## Proyek yang Lagi Saya Garap 🛠️
 
@@ -82,3 +86,7 @@ Halo! Saya mahasiswa **Sains Data** semester 3 yang sedang menapaki jalur **data
 ---
 
 *Dibuat dengan 🐍 + ☕ sebagai mahasiswa yang sedang belajar. README ini akan terus berkembang seiring perjalanan belajarku.*
+
+<p align="center">
+  <img src="assets/footer.svg" alt="footer" width="100%" />
+</p>
