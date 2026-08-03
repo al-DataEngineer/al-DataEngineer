@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="dsGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7A1FA2"/>
+      <stop offset="45%" stop-color="#00C2FF"/>
+      <stop offset="100%" stop-color="#00FFAA"/>
+    </linearGradient>
+    <linearGradient id="dsBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="1000" height="200" rx="24" fill="url(#dsBg)"/>
+  <rect x="4" y="4" width="992" height="192" rx="21" fill="none" stroke="url(#dsGrad)" stroke-width="6"/>
+  <rect x="12" y="12" width="976" height="176" rx="16" fill="none" stroke="url(#dsGrad)" stroke-width="1.5" opacity="0.45"/>
+  <circle cx="60" cy="180" r="1.4" fill="#00C2FF" opacity="0.3"/>
+  <circle cx="100" cy="180" r="1.4" fill="#7A1FA2" opacity="0.3"/>
+  <circle cx="140" cy="180" r="1.4" fill="#00FFAA" opacity="0.3"/>
+  <circle cx="180" cy="180" r="1.4" fill="#00C2FF" opacity="0.3"/>
+  <circle cx="220" cy="180" r="1.4" fill="#7A1FA2" opacity="0.3"/>
+  <circle cx="260" cy="180" r="1.4" fill="#00FFAA" opacity="0.3"/>
+  <circle cx="300" cy="180" r="1.4" fill="#00C2FF" opacity="0.3"/>
+  <circle cx="340" cy="180" r="1.4" fill="#7A1FA2" opacity="0.3"/>
+  <circle cx="380" cy="180" r="1.4" fill="#00FFAA" opacity="0.3"/>
+  <circle cx="420" cy="180" r="1.4" fill="#00C2FF" opacity="0.3"/>
+  <circle cx="580" cy="180" r="1.4" fill="#7A1FA2" opacity="0.3"/>
+  <circle cx="620" cy="180" r="1.4" fill="#00FFAA" opacity="0.3"/>
+  <circle cx="660" cy="180" r="1.4" fill="#00C2FF" opacity="0.3"/>
+  <circle cx="700" cy="180" r="1.4" fill="#7A1FA2" opacity="0.3"/>
+  <circle cx="740" cy="180" r="1.4" fill="#00FFAA" opacity="0.3"/>
+  <circle cx="780" cy="180" r="1.4" fill="#00C2FF" opacity="0.3"/>
+  <circle cx="820" cy="180" r="1.4" fill="#7A1FA2" opacity="0.3"/>
+  <circle cx="860" cy="180" r="1.4" fill="#00FFAA" opacity="0.3"/>
+  <circle cx="900" cy="180" r="1.4" fill="#00C2FF" opacity="0.3"/>
+  <circle cx="940" cy="180" r="1.4" fill="#7A1FA2" opacity="0.3"/>
+  <path d="M30 48 V30 H48" stroke="url(#dsGrad)" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M952 48 V30 H940" stroke="url(#dsGrad)" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M30 152 V170 H48" stroke="url(#dsGrad)" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M952 152 V170 H940" stroke="url(#dsGrad)" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="70,140 140,118 200,130 270,88 340,112 410,70 410,170 70,170" fill="url(#dsGrad)" opacity="0.18"/>
+  <polyline points="70,140 140,118 200,130 270,88 340,112 410,70" fill="none" stroke="url(#dsGrad)" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="70" cy="140" r="5" fill="#7A1FA2"/>
+  <circle cx="140" cy="118" r="5" fill="#00C2FF"/>
+  <circle cx="200" cy="130" r="5" fill="#00FFAA"/>
+  <circle cx="270" cy="88" r="5" fill="#7A1FA2"/>
+  <circle cx="340" cy="112" r="5" fill="#00C2FF"/>
+  <circle cx="410" cy="70" r="5" fill="#00FFAA"/>
+  <rect x="500" y="115" width="22" height="55" rx="4" fill="url(#dsGrad)" opacity="0.9"/>
+  <rect x="532" y="88" width="22" height="82" rx="4" fill="url(#dsGrad)" opacity="0.75"/>
+  <rect x="564" y="104" width="22" height="66" rx="4" fill="url(#dsGrad)" opacity="0.6"/>
+  <rect x="596" y="62" width="22" height="108" rx="4" fill="url(#dsGrad)" opacity="0.85"/>
+  <rect x="628" y="78" width="22" height="92" rx="4" fill="url(#dsGrad)" opacity="0.7"/>
+  <circle cx="740" cy="55" r="4" fill="#00C2FF"/>
+  <circle cx="800" cy="85" r="4" fill="#7A1FA2"/>
+  <circle cx="860" cy="50" r="4" fill="#00FFAA"/>
+  <circle cx="910" cy="100" r="4" fill="#00C2FF"/>
+  <circle cx="960" cy="65" r="4" fill="#7A1FA2"/>
+  <line x1="740" y1="55" x2="800" y2="85" stroke="#00C2FF" stroke-width="1.5" opacity="0.6"/>
+  <line x1="800" y1="85" x2="860" y2="50" stroke="#7A1FA2" stroke-width="1.5" opacity="0.6"/>
+  <line x1="860" y1="50" x2="910" y2="100" stroke="#00FFAA" stroke-width="1.5" opacity="0.6"/>
+  <line x1="910" y1="100" x2="960" y2="65" stroke="#00C2FF" stroke-width="1.5" opacity="0.6"/>
+  <path d="M748 152 v14" stroke="#00C2FF" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+  <path d="M790 158 v8" stroke="#00FFAA" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+  <path d="M832 148 v18" stroke="#7A1FA2" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+</svg>
