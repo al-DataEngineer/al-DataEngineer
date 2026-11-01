@@ -1,55 +1,27 @@
-<div align="left">
+<div align="center">
 
 # Ahmad Alimin
-**Data Science Student • Aspiring Data Engineer**  
-Fokus pada pembangunan pipeline data yang andal, pemodelan data terstruktur, dan pengolahan data analitik berskala besar.
+### Data Science • Data Engineering • Pipeline Architecture
 
-[![Email](https://img.shields.io/badge/Email-ahmadalimin700%40gmail.com-181717?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:ahmadalimin700@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-181717?style=flat-square&logo=googlechrome&logoColor=4285F4)](https://github.com/al-DataEngineer/Portofolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-181717?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad_Alimin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![Email](https://img.shields.io/badge/Email-ahmadalimin700%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmadalimin700@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-Web_App-161b22?style=flat-square&logo=googlechrome&logoColor=58a6ff)](https://github.com/al-DataEngineer/Portofolio)
+
+<p align="center">
+  <em>Membangun infrastruktur data yang andal, pipeline analitik yang modular, dan transformasi data transaksional menjadi insight bisnis yang actionable.</em>
+</p>
 
 </div>
 
 ---
 
-### 📌 Area Fokus & Eksplorasi
+### 🗺️ Data Engineering Workflow
 
-- 🏗️ **Data Pipelines & Ingestion:** Mempelajari alur ETL/ELT terstruktur, data ingestion, dan pembersihan data skala besar.
-- 🗄️ **Relational Databases & Modeling:** Mendesain skema database yang efisien, normalisasi data, dan optimasi query SQL.
-- 📈 **Exploratory Data Analysis:** Mengekstrak insight bisnis dan segmentasi perilaku pengguna menggunakan dataset transaksional.
-- ⚙️ **Engineering Practices:** Menerapkan Git workflow, modular code structure, dan reproducibility notebook.
+Diagram konseptual alur pemrosesan data yang saya pelajari dan terapkan dalam proyek analitik:
 
----
-
-### 🛠️ Tech Stack & Ekosistem
-
-| Domain | Tools & Teknologi |
-| :--- | :--- |
-| **Languages** | `Python` `SQL` `Bash` |
-| **Data Processing & Analytics** | `Pandas` `NumPy` `Jupyter Notebook` `Scikit-Learn` |
-| **Database & Storage** | `PostgreSQL` `MySQL` `SQLite` |
-| **Tools & Version Control** | `Git` `GitHub` `VS Code` `Linux / CLI` |
-
----
-
-### 🚀 Featured Repositories
-
-| Repository | Fokus & Arsitektur | Teknologi |
-| :--- | :--- | :--- |
-| **[olist-ecommerce-segmentation](https://github.com/al-DataEngineer/olist-ecommerce-segmentation)** | Analisis segmentasi pelanggan dan evaluasi transaksi berbasis dataset nyata Brazilian E-Commerce (Olist). | `Python`, `Pandas`, `EDA`, `Clustering` |
-| **[kelasku](https://github.com/al-DataEngineer/kelasku)** | Platform belajar interaktif dengan mekanisme gamifikasi (tracking XP, daily streaks, dan leveling system). | `Web Development`, `Logic & State Management` |
-| **[Portofolio](https://github.com/al-DataEngineer/Portofolio)** | Situs portofolio personal yang memuat rangkuman eksplorasi data, tulisan teknis, dan catatan proyek. | `Frontend`, `Deployment` |
-
----
-
-### 📊 Repository Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-DataEngineer&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="150" />
-</p>
-
----
-
-<p align="left">
-  <sub>Terbuka untuk diskusi teknis, kolaborasi proyek data, dan kesempatan magang di bidang Data Engineering. Kontak via <a href="mailto:ahmadalimin700@gmail.com">Email</a>.</sub>
-</p>
+```mermaid
+flowchart LR
+    A["Raw Data (CSV, APIs, DB)"] --> B["Ingestion & Cleaning (Python, Pandas)"]
+    B --> C["Relational Storage (PostgreSQL, MySQL)"]
+    C --> D["Modeling & Segmentation (RFM, Scikit-Learn)"]
+    D --> E["BI Dashboards & Reports"]
