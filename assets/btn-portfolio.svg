@@ -1,0 +1,23 @@
+<svg width="160" height="38" viewBox="0 0 160 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="btnBg" x1="0" y1="0" x2="0" y2="38" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1e2634"/>
+      <stop offset="100%" stop-color="#151b24"/>
+    </linearGradient>
+    <style>
+      .label {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        font-size: 12px;
+        font-weight: 600;
+        letter-spacing: 1px;
+        fill: #e6edf3;
+      }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="158" height="36" rx="18" fill="url(#btnBg)" stroke="#30363d" stroke-width="1.2"/>
+  <!-- Portfolio Globe/Spark Icon -->
+  <circle cx="32" cy="19" r="7" stroke="#f97316" stroke-width="1.5" fill="none"/>
+  <ellipse cx="32" cy="19" rx="3.2" ry="7" stroke="#67e8f9" stroke-width="1.2" fill="none"/>
+  <line x1="25" y1="19" x2="39" y2="19" stroke="#67e8f9" stroke-width="1.2"/>
+  <text x="47" y="23" class="label">PORTFOLIO</text>
+</svg>

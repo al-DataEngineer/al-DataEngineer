@@ -1,0 +1,65 @@
+<svg width="860" height="205" viewBox="0 0 860 205" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="heroBg" x1="0" y1="0" x2="860" y2="205" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1a2230"/>
+      <stop offset="50%" stop-color="#141a24"/>
+      <stop offset="100%" stop-color="#10151e"/>
+    </linearGradient>
+    <linearGradient id="cyanText" x1="0" y1="0" x2="860" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#5eead4"/>
+      <stop offset="50%" stop-color="#67e8f9"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <filter id="cyanGlow" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .name {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        font-size: 40px;
+        font-weight: 800;
+        letter-spacing: 2px;
+      }
+      .subtitle {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        font-weight: 600;
+        letter-spacing: 1.8px;
+        fill: #cbd5e1;
+      }
+      .terminal {
+        font-family: "JetBrains Mono", "Fira Code", Consolas, "Courier New", monospace;
+        font-size: 16px;
+        font-weight: 500;
+      }
+      .cursor {
+        animation: blink 1.1s step-end infinite;
+      }
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <!-- Card Container -->
+  <rect x="1" y="1" width="858" height="203" rx="14" fill="url(#heroBg)" stroke="#30363d" stroke-width="1.5"/>
+
+  <!-- Subtle top highlight -->
+  <line x1="16" y1="1.5" x2="844" y2="1.5" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="1"/>
+
+  <!-- Name with Cyan Glow -->
+  <text x="430" y="72" text-anchor="middle" class="name" fill="url(#cyanText)" filter="url(#cyanGlow)">AHMAD ALIMIN</text>
+
+  <!-- Subtitle -->
+  <text x="430" y="106" text-anchor="middle" class="subtitle">DATA SCIENCE UNDERGRADUATE • AI &amp; ANALYTICS</text>
+
+  <!-- Terminal Prompt -->
+  <text x="430" y="154" text-anchor="middle" class="terminal">
+    <tspan fill="#67e8f9">&gt; alimin@data-box</tspan><tspan fill="#8b949e">:~$</tspan><tspan fill="#e6edf3"> whoami</tspan><tspan fill="#67e8f9" class="cursor">_</tspan>
+  </text>
+</svg>
