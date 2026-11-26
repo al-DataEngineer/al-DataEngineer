@@ -26,6 +26,12 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/al-DataEngineer/ecommerce-pricing-intelligence">
+    <img src="./assets/repo-ecommerce-pricing.svg" alt="ecommerce-pricing-intelligence" width="100%" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/al-DataEngineer/olist-ecommerce-segmentation">
     <img src="./assets/repo-1.svg" alt="olist-ecommerce-segmentation" width="100%" />
   </a>
