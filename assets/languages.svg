@@ -21,12 +21,12 @@
   <rect x="1" y="1" width="418" height="118" rx="12" fill="url(#cardBg)" stroke="#30363d" stroke-width="1.4"/>
 
   <text x="20" y="34" class="lang-name">Jupyter Notebook</text>
-  <text x="398" y="34" text-anchor="end" class="lang-pct">90%</text>
+  <text x="398" y="34" text-anchor="end" class="lang-pct">81%</text>
   <rect x="20" y="43" width="378" height="8" rx="4" fill="#21262d"/>
-  <rect x="20" y="43" width="340" height="8" rx="4" fill="#f97316"/>
+  <rect x="20" y="43" width="306" height="8" rx="4" fill="#f97316"/>
 
   <text x="20" y="80" class="lang-name">Python</text>
-  <text x="398" y="80" text-anchor="end" class="lang-pct">10%</text>
+  <text x="398" y="80" text-anchor="end" class="lang-pct">19%</text>
   <rect x="20" y="89" width="378" height="8" rx="4" fill="#21262d"/>
-  <rect x="20" y="89" width="38" height="8" rx="4" fill="#38bdf8"/>
+  <rect x="20" y="89" width="72" height="8" rx="4" fill="#38bdf8"/>
 </svg>

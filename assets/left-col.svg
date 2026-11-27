@@ -64,14 +64,14 @@
   <circle cx="29" cy="285" r="7" fill="#f97316" fill-opacity="0.18"/>
   <path d="M29 279C29 279 33 283 33 286.5C33 288.7 31.2 290.5 29 290.5C26.8 290.5 25 288.7 25 286.5C25 284.5 26.5 282.5 27.5 281.5C27.5 283 28.5 283.5 29 283.5C29.5 283.5 29 281 29 279Z" fill="#fb923c"/>
   <text x="44" y="289" class="stat-label">Current Streak</text>
-  <text x="396" y="289" text-anchor="end" class="stat-val" fill="#fb923c">1</text>
+  <text x="396" y="289" text-anchor="end" class="stat-val" fill="#fb923c">2</text>
 
   <text x="22" y="322" class="stat-label">Total Contributions</text>
-  <text x="396" y="322" text-anchor="end" class="stat-val" fill="#e6edf3">29</text>
+  <text x="396" y="322" text-anchor="end" class="stat-val" fill="#e6edf3">38</text>
 
   <text x="22" y="355" class="stat-label">Longest Streak</text>
-  <text x="396" y="355" text-anchor="end" class="stat-val" fill="#e6edf3">1</text>
+  <text x="396" y="355" text-anchor="end" class="stat-val" fill="#e6edf3">2</text>
 
   <text x="22" y="388" class="stat-label">Contributions (30d)</text>
-  <text x="396" y="388" text-anchor="end" class="stat-val" fill="#67e8f9">16</text>
+  <text x="396" y="388" text-anchor="end" class="stat-val" fill="#67e8f9">26</text>
 </svg>
